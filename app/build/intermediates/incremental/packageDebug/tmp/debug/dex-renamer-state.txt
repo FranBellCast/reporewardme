@@ -1,9 +1,9 @@
-#Thu Nov 24 22:25:07 CET 2022
-base.2=/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
+#Fri Nov 25 00:26:43 CET 2022
+base.2=/Users/applefox/Desktop/reporeward/app/build/intermediates/dex/debug/mergeProjectDexDebug/5/classes.dex
 path.2=5/classes.dex
-base.1=/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.1=/Users/applefox/Desktop/reporeward/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
 path.1=0/classes.dex
-base.0=/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.0=/Users/applefox/Desktop/reporeward/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex

@@ -6,133 +6,133 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml
+8-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="32" />
-9-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml
+9-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:4:5-67
-11-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:4:22-64
+11-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:4:22-64
 12
 13    <application
-13-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:6:5-57:19
+13-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:6:5-57:19
 14        android:allowBackup="true"
-14-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:7:9-35
+14-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:7:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.8.0] /home/alturas/.gradle/caches/transforms-3/87a796fe63836d99a2198ac6a6284cb3/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+15-->[androidx.core:core:1.8.0] /Users/applefox/.gradle/caches/transforms-3/87a796fe63836d99a2198ac6a6284cb3/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
 16        android:dataExtractionRules="@xml/data_extraction_rules"
-16-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:8:9-65
+16-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:8:9-65
 17        android:debuggable="true"
 18        android:fullBackupContent="@xml/backup_rules"
-18-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:9:9-54
+18-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:9:9-54
 19        android:icon="@mipmap/ic_launcher"
-19-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:10:9-43
+19-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:10:9-43
 20        android:label="@string/app_name"
-20-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:11:9-41
+20-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:11:9-41
 21        android:roundIcon="@mipmap/ic_launcher_round"
-21-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:12:9-54
+21-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:12:9-54
 22        android:supportsRtl="true"
-22-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:13:9-35
+22-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:13:9-35
 23        android:testOnly="true"
 24        android:theme="@style/Theme.MyApplication" >
-24-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:14:9-51
+24-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:14:9-51
 25        <activity
-25-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:16:9-22:20
+25-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:16:9-22:20
 26            android:name="com.example.myapplication.MenuActivity"
-26-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:17:13-41
+26-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:17:13-41
 27            android:exported="false" >
-27-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:18:13-37
+27-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:18:13-37
 28            <meta-data
-28-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:19:13-21:36
+28-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:19:13-21:36
 29                android:name="android.app.lib_name"
-29-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:20:17-52
+29-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:20:17-52
 30                android:value="" />
-30-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:21:17-33
+30-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:21:17-33
 31        </activity>
 32        <activity
-32-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:23:9-29:20
+32-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:23:9-29:20
 33            android:name="com.example.myapplication.InicioActivity"
-33-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:24:13-43
+33-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:24:13-43
 34            android:exported="false" >
-34-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:25:13-37
+34-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:25:13-37
 35            <meta-data
-35-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:19:13-21:36
+35-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:19:13-21:36
 36                android:name="android.app.lib_name"
-36-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:20:17-52
+36-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:20:17-52
 37                android:value="" />
-37-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:21:17-33
+37-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:21:17-33
 38        </activity>
 39        <activity
-39-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:30:9-36:20
+39-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:30:9-36:20
 40            android:name="com.example.myapplication.LoginActivity"
-40-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:31:13-42
+40-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:31:13-42
 41            android:exported="false" >
-41-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:32:13-37
+41-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:32:13-37
 42            <meta-data
-42-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:19:13-21:36
+42-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:19:13-21:36
 43                android:name="android.app.lib_name"
-43-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:20:17-52
+43-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:20:17-52
 44                android:value="" />
-44-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:21:17-33
+44-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:21:17-33
 45        </activity>
 46        <activity
-46-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:37:9-43:20
+46-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:37:9-43:20
 47            android:name="com.example.myapplication.RegisterActivity"
-47-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:38:13-45
+47-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:38:13-45
 48            android:exported="false" >
-48-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:39:13-37
+48-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:39:13-37
 49            <meta-data
-49-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:19:13-21:36
+49-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:19:13-21:36
 50                android:name="android.app.lib_name"
-50-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:20:17-52
+50-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:20:17-52
 51                android:value="" />
-51-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:21:17-33
+51-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:21:17-33
 52        </activity>
 53        <activity
-53-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:44:9-56:20
+53-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:44:9-56:20
 54            android:name="com.example.myapplication.MainActivity"
-54-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:45:13-41
+54-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:45:13-41
 55            android:exported="true" >
-55-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:46:13-36
+55-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:46:13-36
 56            <intent-filter>
-56-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:47:13-51:29
+56-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:47:13-51:29
 57                <action android:name="android.intent.action.MAIN" />
-57-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:48:17-69
-57-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:48:25-66
+57-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:48:17-69
+57-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:48:25-66
 58
 59                <category android:name="android.intent.category.LAUNCHER" />
-59-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:50:17-77
-59-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:50:27-74
+59-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:50:17-77
+59-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:50:27-74
 60            </intent-filter>
 61
 62            <meta-data
-62-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:19:13-21:36
+62-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:19:13-21:36
 63                android:name="android.app.lib_name"
-63-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:20:17-52
+63-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:20:17-52
 64                android:value="" />
-64-->/home/alturas/Documentos/DAM/11_PROYECTO/Nueva carpeta/app/src/main/AndroidManifest.xml:21:17-33
+64-->/Users/applefox/Desktop/reporeward/app/src/main/AndroidManifest.xml:21:17-33
 65        </activity>
 66
 67        <provider
-67-->[androidx.emoji2:emoji2:1.2.0] /home/alturas/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+67-->[androidx.emoji2:emoji2:1.2.0] /Users/applefox/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
 68            android:name="androidx.startup.InitializationProvider"
-68-->[androidx.emoji2:emoji2:1.2.0] /home/alturas/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+68-->[androidx.emoji2:emoji2:1.2.0] /Users/applefox/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
 69            android:authorities="com.example.myapplication.androidx-startup"
-69-->[androidx.emoji2:emoji2:1.2.0] /home/alturas/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+69-->[androidx.emoji2:emoji2:1.2.0] /Users/applefox/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
 70            android:exported="false" >
-70-->[androidx.emoji2:emoji2:1.2.0] /home/alturas/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+70-->[androidx.emoji2:emoji2:1.2.0] /Users/applefox/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
 71            <meta-data
-71-->[androidx.emoji2:emoji2:1.2.0] /home/alturas/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+71-->[androidx.emoji2:emoji2:1.2.0] /Users/applefox/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
 72                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-72-->[androidx.emoji2:emoji2:1.2.0] /home/alturas/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+72-->[androidx.emoji2:emoji2:1.2.0] /Users/applefox/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
 73                android:value="androidx.startup" />
-73-->[androidx.emoji2:emoji2:1.2.0] /home/alturas/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+73-->[androidx.emoji2:emoji2:1.2.0] /Users/applefox/.gradle/caches/transforms-3/c03fa7bc00a04a375204b573f0966d9f/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
 74            <meta-data
-74-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/alturas/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+74-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/applefox/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
 75                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-75-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/alturas/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+75-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/applefox/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
 76                android:value="androidx.startup" />
-76-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/alturas/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+76-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/applefox/.gradle/caches/transforms-3/0ce9e5f033589fdf0ab757f82f7808ec/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
 77        </provider>
 78    </application>
 79
