@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Reward.me</string>
+    <string name="text_value1">Madre/Padre</string>
+    <string name="text_value2">Hija/Hijo</string>
 </resources>

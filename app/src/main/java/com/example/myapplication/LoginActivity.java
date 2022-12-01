@@ -17,6 +17,7 @@ public class LoginActivity extends AppCompatActivity {
     protected EditText caja1;
     protected EditText caja2;
     protected DataBaseSQL db;
+    protected Button boton2;
 
     private String contenidoCaja1 = "";
     private String contenidoCaja2 = "";
@@ -31,6 +32,7 @@ public class LoginActivity extends AppCompatActivity {
         boton1 = (Button) findViewById(R.id.button_entrar);
         caja1 = (EditText) findViewById(R.id.text_email);
         caja2 = (EditText) findViewById(R.id.text_password);
+        boton2 = (Button) findViewById(R.id.login_botonCambiar);
 
         boton1.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -52,6 +54,9 @@ public class LoginActivity extends AppCompatActivity {
                             startActivity(pasarPantalla);
                         } else {
                             Toast.makeText(LoginActivity.this, "Usuario o contraseña incorrectos ", Toast.LENGTH_SHORT).show();
+                            Intent pasarPantalla = new Intent(LoginActivity.this, MenuActivity.class);
+                            finish();
+                            startActivity(pasarPantalla);
                         }
                     } catch (Exception e) {
 
@@ -61,7 +66,14 @@ public class LoginActivity extends AppCompatActivity {
                 }
             }
         });
-
+        boton2.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                Intent pasarPantalla = new Intent(LoginActivity.this, RecuperarActivity.class);
+                finish();
+                startActivity(pasarPantalla);
+            }
+        });
 
     }
 

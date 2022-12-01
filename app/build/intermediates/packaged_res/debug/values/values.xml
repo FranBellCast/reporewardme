@@ -7,7 +7,9 @@
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Reward.me</string>
+    <string name="text_value1">Madre/Padre</string>
+    <string name="text_value2">Hija/Hijo</string>
     <style name="Theme.MyApplication" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>
